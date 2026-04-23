@@ -27,8 +27,8 @@ The system answers queries such as:
 
 The legal corpus was constructed using publicly available structured datasets:
 
-- Constitution of India dataset (GitHub)  
-- Civic Tech India datasets covering:
+- Constitution of India dataset (GitHub)  - https://github.com/Yash-Handa/The_Constitution_Of_India
+- Civic Tech India datasets covering: - https://github.com/civictech-India/Indian-Law-Penal-Code-Json
   - Indian Penal Code (IPC)  
   - Code of Criminal Procedure (CRPC)  
   - Code of Civil Procedure (CPC)  
