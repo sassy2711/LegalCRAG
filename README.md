@@ -21,6 +21,75 @@ The system answers queries such as:
 
 ---
 
+## 🧱 Corpus Construction
+
+### Datasets Used
+
+The legal corpus was constructed using publicly available structured datasets:
+
+- Constitution of India dataset (GitHub)  
+- Civic Tech India datasets covering:
+  - Indian Penal Code (IPC)  
+  - Code of Criminal Procedure (CRPC)  
+  - Code of Civil Procedure (CPC)  
+  - Indian Evidence Act (IEA)  
+
+---
+
+### Why These Datasets?
+
+These datasets were chosen because:
+
+- They provide **clean, structured statutory text** (no OCR noise)  
+- They cover **core Indian legal domains** required for QA  
+- They are **open-source and reproducible**  
+- They are already **section-wise segmented**, aligning with retrieval tasks  
+
+This avoids the need for heavy preprocessing and improves retrieval quality.
+
+---
+
+### Corpus Structure
+
+Each legal provision is stored in a structured JSON format:
+
+```json
+{
+  "doc_type": "statute",
+  "source": "CRPC",
+  "section": "126",
+  "article": null,
+  "clause": null,
+  "sub_clause": null,
+  "title": "Procedure",
+  "text": "...",
+  "citation": "Section 126 CRPC"
+}
+```
+
+---
+
+### Why This Structure?
+
+The schema is designed to support both **retrieval performance** and **legal interpretability**:
+
+- **doc_type** → allows future extension (e.g., case law)  
+- **source** → enables domain-aware retrieval (IPC / CRPC / IEA / COI)  
+- **section / article / clause** → preserves legal hierarchy  
+- **title** → strong semantic signal for embeddings  
+- **text** → full content used for retrieval and generation  
+- **citation** → standardized reference for evaluation and answers  
+
+---
+
+### Benefits
+
+- Improves embedding quality (title + content)  
+- Enables precise citation matching  
+- Supports reranking effectively  
+- Easily extensible for future legal datasets  
+
+
 ## ⚙️ System Architecture
 
 ```
