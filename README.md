@@ -114,7 +114,7 @@ Answer
 
 ## Key Components
 
-### 1. Retriever (`retriever.py`)
+### 1. Retriever 
 - Dense retrieval using SentenceTransformers  
 - FAISS index  
 - Cross-encoder reranking  
@@ -123,7 +123,7 @@ Answer
 
 ---
 
-### 2. CRAG Pipeline (`pipeline.py`)
+### 2. CRAG Pipeline 
 - Iterative retrieval  
 - Query correction  
 - Best-result tracking  
@@ -133,7 +133,7 @@ Answer
 
 ---
 
-### 3. Generator (`generator.py`)
+### 3. Generator 
 
 #### Rule-based Generator
 - Selects most relevant section  
@@ -147,14 +147,14 @@ Answer
 
 ---
 
-### 4. Corrector (`corrector.py`)
+### 4. Corrector 
 - Expands abbreviations (IPC, CRPC, etc.)  
 - Adds intent-based hints  
 - Improves retrieval queries  
 
 ---
 
-### 5. Evaluator (`evaluator.py`)
+### 5. Evaluator
 - Computes semantic similarity  
 - Detects noisy documents  
 - Guides CRAG correction loop  
@@ -173,16 +173,16 @@ Answer
 
 We evaluate the system at multiple levels:
 
-### 1. Retrieval-Level Metrics (`evaluate.py`)
+### 1. Retrieval-Level Metrics 
 - Accuracy@1  
 - Hit@K  
 - Mean Reciprocal Rank (MRR)  
 
-### 2. Answer-Level Metrics (`evaluate_with_generator.py`)
+### 2. Answer-Level Metrics
 - Final answer accuracy  
 - Citation correctness  
 
-### 3. LLM-Based Metrics (`evaluate_llm_local.py`)
+### 3. LLM-Based Metrics 
 - Groundedness (is answer supported by context?)  
 - Relevance (does answer match query?)  
 
@@ -193,20 +193,14 @@ We evaluate the system at multiple levels:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/sassy2711/LegalCRAG
+cd LegalCrag
 ```
 
 ### 2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
-```
-
-Or manually:
-
-```bash
-pip install faiss-cpu sentence-transformers requests
 ```
 
 ### 3. Setup Ollama (for LLM generation & evaluation)
@@ -221,8 +215,6 @@ Pull a model:
 
 ```bash
 ollama pull llama3
-# or
-ollama pull mistral
 ```
 
 Run:
@@ -235,31 +227,29 @@ ollama serve
 
 ## Running the System
 
-### Run CRAG pipeline
+### Run CRAG pipeline (inside crag folder)
 
 ```bash
 python pipeline.py
 ```
 
-### Retrieval Evaluation
+### Retrieval Evaluation (inside crag folder)
 
 ```bash
-python evaluate.py
+python eval.py
 ```
 
-### Answer Evaluation
+### Answer Evaluation (inside crag folder)
 
 ```bash
-python evaluate_with_generator.py
+python eval_ans.py
 ```
 
-### LLM-based Evaluation
+### LLM-based Evaluation (inside llm_eval_with_llm_gen folder)
 
 ```bash
-python evaluate_llm_local.py
+python eval.py
 ```
-
-Recommended: run on **20–30 queries** due to LLM latency.
 
 ---
 
