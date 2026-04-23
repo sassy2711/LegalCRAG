@@ -4,7 +4,7 @@ A Corrective Retrieval-Augmented Generation (CRAG) system for answering statute-
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project builds a **Retrieval-Augmented Generation (RAG)** system and extends it to **Corrective RAG (CRAG)** by introducing:
 
@@ -21,7 +21,7 @@ The system answers queries such as:
 
 ---
 
-## 🧱 Corpus Construction
+## Corpus Construction
 
 ### Datasets Used
 
@@ -90,7 +90,7 @@ The schema is designed to support both **retrieval performance** and **legal int
 - Easily extensible for future legal datasets  
 
 
-## ⚙️ System Architecture
+## System Architecture
 
 ```
 Query
@@ -112,7 +112,7 @@ Answer
 
 ---
 
-## 🧠 Key Components
+## Key Components
 
 ### 1. Retriever (`retriever.py`)
 - Dense retrieval using SentenceTransformers  
@@ -169,26 +169,26 @@ Answer
 
 ---
 
-## 📊 Evaluation
+## Evaluation
 
 We evaluate the system at multiple levels:
 
-### 🔹 1. Retrieval-Level Metrics (`evaluate.py`)
+### 1. Retrieval-Level Metrics (`evaluate.py`)
 - Accuracy@1  
 - Hit@K  
 - Mean Reciprocal Rank (MRR)  
 
-### 🔹 2. Answer-Level Metrics (`evaluate_with_generator.py`)
+### 2. Answer-Level Metrics (`evaluate_with_generator.py`)
 - Final answer accuracy  
 - Citation correctness  
 
-### 🔹 3. LLM-Based Metrics (`evaluate_llm_local.py`)
+### 3. LLM-Based Metrics (`evaluate_llm_local.py`)
 - Groundedness (is answer supported by context?)  
 - Relevance (does answer match query?)  
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -233,7 +233,7 @@ ollama serve
 
 ---
 
-## ▶️ Running the System
+## Running the System
 
 ### Run CRAG pipeline
 
@@ -259,11 +259,11 @@ python evaluate_with_generator.py
 python evaluate_llm_local.py
 ```
 
-⚠️ Recommended: run on **20–30 queries** due to LLM latency.
+Recommended: run on **20–30 queries** due to LLM latency.
 
 ---
 
-## 📂 Dataset Format
+## Dataset Format
 
 ```json
 [
@@ -276,7 +276,7 @@ python evaluate_llm_local.py
 
 ---
 
-## 🔍 Key Observations
+## Key Observations
 
 - CRAG improves performance on:
   - noisy queries  
@@ -293,7 +293,7 @@ python evaluate_llm_local.py
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Small dataset size  
 - Local LLM variability  
@@ -302,7 +302,7 @@ python evaluate_llm_local.py
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 - Better query classification (definition vs comparison)  
 - Multi-hop reasoning  
@@ -312,20 +312,14 @@ python evaluate_llm_local.py
 
 ---
 
-## 🧠 Key Insight
+## Contributors
 
-Query rewriting improves retrieval, but must be decoupled from generation to avoid altering the intended question semantics.
-
----
-
-## 👥 Contributors
-
-- <Name 1>  
-- <Name 2>  
-- <Name 3>  
+- Shashwat Chaturvedi
+- Shiven Phogat
+- Rohan Rajesh
 
 ---
 
-## 📄 License
+## License
 
-MIT License (or specify your own)
+MIT License
