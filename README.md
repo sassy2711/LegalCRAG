@@ -161,7 +161,7 @@ Answer
 
 ---
 
-### 6. Local LLM Evaluator (`local_evaluator.py`)
+### 6. Local LLM Evaluator 
 - Groundedness scoring  
 - Relevance scoring  
 - Uses local LLM (Ollama)  
