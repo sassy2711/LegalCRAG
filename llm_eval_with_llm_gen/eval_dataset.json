@@ -1,0 +1,43 @@
+[
+  {"query": "cheating ipc meaning", "gold_citations": ["Section 415 IPC"]},
+  {"query": "cheating crpc meaning", "gold_citations": ["Section 415 IPC"]},
+  {"query": "what is cheating law india", "gold_citations": ["Section 415 IPC"]},
+  {"query": "define cheating", "gold_citations": ["Section 415 IPC"]},
+
+  {"query": "cheating vs cheating by personation", "gold_citations": ["Section 415 IPC", "Section 416 IPC"]},
+  {"query": "cheating punishment section", "gold_citations": ["Section 420 IPC"]},
+
+  {"query": "theft ipc meaning", "gold_citations": ["Section 378 IPC"]},
+  {"query": "what is theft", "gold_citations": ["Section 378 IPC"]},
+  {"query": "theft vs robbery difference", "gold_citations": ["Section 378 IPC", "Section 390 IPC"]},
+
+  {"query": "murder ipc meaning", "gold_citations": ["Section 300 IPC"]},
+  {"query": "culpable homicide meaning", "gold_citations": ["Section 299 IPC"]},
+  {"query": "difference murder culpable homicide", "gold_citations": ["Section 299 IPC", "Section 300 IPC"]},
+
+  {"query": "fir meaning", "gold_citations": ["Section 154 CRPC"]},
+  {"query": "fir law india police complaint", "gold_citations": ["Section 154 CRPC"]},
+  {"query": "first info report crpc section", "gold_citations": ["Section 154 CRPC"]},
+
+  {"query": "bail meaning", "gold_citations": ["Section 436 CRPC", "Section 437 CRPC"]},
+  {"query": "types of bail india", "gold_citations": ["Section 436 CRPC", "Section 437 CRPC", "Section 438 CRPC"]},
+  {"query": "anticipatory bail crpc meaning", "gold_citations": ["Section 438 CRPC"]},
+
+  {"query": "evidence meaning", "gold_citations": ["Section 3 IEA"]},
+  {"query": "evidence ipc definition", "gold_citations": ["Section 3 IEA"]},
+  {"query": "primary evidence meaning", "gold_citations": ["Section 62 IEA"]},
+  {"query": "secondary evidence meaning", "gold_citations": ["Section 63 IEA"]},
+
+  {"query": "confession meaning law india", "gold_citations": ["Section 24 IEA"]},
+  {"query": "admission evidence act meaning", "gold_citations": ["Section 17 IEA"]},
+
+  {"query": "article 21 meaning", "gold_citations": ["Article 21 COI"]},
+  {"query": "right to life india law", "gold_citations": ["Article 21 COI"]},
+  {"query": "article 14 meaning", "gold_citations": ["Article 14 COI"]},
+
+  {"query": "robbery ipc meaning", "gold_citations": ["Section 390 IPC"]},
+  {"query": "dacoity meaning india law", "gold_citations": ["Section 391 IPC"]},
+
+  {"query": "cheating international treaty india", "gold_citations": ["Section 415 IPC"]},
+  {"query": "fir foreign state request law", "gold_citations": ["Section 154 CRPC"]}
+]

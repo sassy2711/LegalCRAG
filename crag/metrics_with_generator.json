@@ -1,0 +1,11 @@
+{
+  "RAG": {
+    "Accuracy": 0.3675
+  },
+  "CRAG": {
+    "Accuracy": 0.4025
+  },
+  "Improvement": {
+    "Accuracy_gain": 0.035
+  }
+}

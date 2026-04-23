@@ -1,0 +1,18 @@
+{
+  "processed": 17,
+  "RAG": {
+    "Accuracy": 0.7647058823529411,
+    "Groundedness": 0.7629411764705881,
+    "Relevance": 0.6576470588235294
+  },
+  "CRAG": {
+    "Accuracy": 0.47058823529411764,
+    "Groundedness": 0.6735294117647058,
+    "Relevance": 0.6000000000000001
+  },
+  "Improvement": {
+    "Accuracy_gain": -0.29411764705882354,
+    "Groundedness_gain": -0.08941176470588233,
+    "Relevance_gain": -0.05764705882352933
+  }
+}

@@ -1,0 +1,107 @@
+{"query": "What is cheating under IPC?", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define cheating", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "cheating ipc meaning", "gold": ["Section 415 IPC"], "rag_pred": "Section 416 IPC", "crag_pred": "Section 416 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "ipc cheating definition", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is theft?", "gold": ["Section 378 IPC"], "rag_pred": "Section 378 IPC", "crag_pred": "Section 378 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define theft IPC", "gold": ["Section 378 IPC"], "rag_pred": "Section 378 IPC", "crag_pred": "Section 378 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "theft ipc meaning", "gold": ["Section 378 IPC"], "rag_pred": "Section 378 IPC", "crag_pred": "Section 378 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is murder?", "gold": ["Section 300 IPC"], "rag_pred": "Section 300 IPC", "crag_pred": "Section 300 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define culpable homicide", "gold": ["Section 299 IPC"], "rag_pred": "Section 299 IPC", "crag_pred": "Section 299 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "culpable homicide ipc meaning", "gold": ["Section 299 IPC"], "rag_pred": "Section 299 IPC", "crag_pred": "Section 299 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "difference murder culpable homicide ipc", "gold": ["Section 299 IPC", "Section 300 IPC"], "rag_pred": "Section 300 IPC", "crag_pred": "Section 300 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is FIR?", "gold": ["Section 154 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
+{"query": "fir crpc meaning", "gold": ["Section 154 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
+{"query": "define fir police complaint", "gold": ["Section 154 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is arrest?", "gold": ["Section 41 CRPC"], "rag_pred": "Section 44 CRPC", "crag_pred": "Section 44 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "arrest crpc definition", "gold": ["Section 41 CRPC"], "rag_pred": "Section 80 CRPC", "crag_pred": "Section 80 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is bail?", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "bail crpc meaning", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "anticipatory bail meaning", "gold": ["Section 438 CRPC"], "rag_pred": "Section 437 CRPC", "crag_pred": "Section 437 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is evidence?", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "evidence iea definition", "gold": ["Section 3 IEA"], "rag_pred": "Section 97 IEA", "crag_pred": "Section 97 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "meaning of evidence law india", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "primary evidence meaning", "gold": ["Section 62 IEA"], "rag_pred": "Section 62 IEA", "crag_pred": "Section 62 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "secondary evidence meaning", "gold": ["Section 63 IEA"], "rag_pred": "Section 63 IEA", "crag_pred": "Section 63 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is confession?", "gold": ["Section 24 IEA"], "rag_pred": "Section 24 IEA", "crag_pred": "Section 24 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "confession evidence act meaning", "gold": ["Section 24 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is admission?", "gold": ["Section 17 IEA"], "rag_pred": "Section 17 IEA", "crag_pred": "Section 17 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "admission evidence meaning", "gold": ["Section 17 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Article 21 meaning", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "right to life india constitution", "gold": ["Article 21 COI"], "rag_pred": "Article 6", "crag_pred": "Article 6", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Article 14 meaning", "gold": ["Article 14 COI"], "rag_pred": "Article 14", "crag_pred": "Article 14", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "right to equality india", "gold": ["Article 14 COI"], "rag_pred": "Article 14", "crag_pred": "Article 14", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Article 19 meaning", "gold": ["Article 19 COI"], "rag_pred": "Article 19", "crag_pred": "Article 19", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is injunction?", "gold": ["Order 39 CPC"], "rag_pred": "Section 142 CRPC", "crag_pred": "Section 142 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "injunction cpc meaning", "gold": ["Order 39 CPC"], "rag_pred": "Section 95 CPC", "crag_pred": "Section 2 CPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is decree?", "gold": ["Section 2 CPC"], "rag_pred": "Section 37 CPC", "crag_pred": "Section 37 CPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "criminal intimidation meaning", "gold": ["Section 503 IPC"], "rag_pred": "Section 503 IPC", "crag_pred": "Section 503 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "wrongful restraint meaning", "gold": ["Section 339 IPC"], "rag_pred": "Section 339 IPC", "crag_pred": "Section 339 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "wrongful confinement meaning", "gold": ["Section 340 IPC"], "rag_pred": "Section 340 IPC", "crag_pred": "Section 340 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "defamation ipc meaning", "gold": ["Section 499 IPC"], "rag_pred": "Section 499 IPC", "crag_pred": "Section 499 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "abetment ipc meaning", "gold": ["Section 107 IPC"], "rag_pred": "Section 107 IPC", "crag_pred": "Section 107 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "section 420 ipc meaning", "gold": ["Section 420 IPC"], "rag_pred": "Section 420 IPC", "crag_pred": "Section 420 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "section 302 ipc meaning", "gold": ["Section 302 IPC"], "rag_pred": "Section 302 IPC", "crag_pred": "Section 302 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "section 376 ipc meaning", "gold": ["Section 376 IPC"], "rag_pred": "Section 376C IPC", "crag_pred": "Section 376C IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "public nuisance ipc meaning", "gold": ["Section 268 IPC"], "rag_pred": "Section 268 IPC", "crag_pred": "Section 268 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "assault ipc meaning", "gold": ["Section 351 IPC"], "rag_pred": "Section 351 IPC", "crag_pred": "Section 351 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "battery ipc meaning", "gold": ["Section 350 IPC"], "rag_pred": "Section 80 IPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "res judicata meaning", "gold": ["Section 11 CPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "res sub judice meaning", "gold": ["Section 10 CPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "cognizable offence meaning", "gold": ["Section 2 CRPC"], "rag_pred": "Section 6 IPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "non cognizable offence meaning", "gold": ["Section 2 CRPC"], "rag_pred": "Section 6 IPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "dying declaration meaning", "gold": ["Section 32 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "burden of proof meaning", "gold": ["Section 101 IEA"], "rag_pred": "Section 103 IEA", "crag_pred": "Section 103 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "constitution amendment india", "gold": ["Article 368 COI"], "rag_pred": "Article 13", "crag_pred": "Article 13", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "sedition ipc meaning", "gold": ["Section 124A IPC"], "rag_pred": "Section 124A IPC", "crag_pred": "Section 124A IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "robbery ipc meaning", "gold": ["Section 390 IPC"], "rag_pred": "Section 390 IPC", "crag_pred": "Section 390 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "dacoity ipc meaning", "gold": ["Section 391 IPC"], "rag_pred": "Section 391 IPC", "crag_pred": "Section 391 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "mischief ipc meaning", "gold": ["Section 425 IPC"], "rag_pred": "Section 425 IPC", "crag_pred": "Section 425 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "forgery ipc meaning", "gold": ["Section 463 IPC"], "rag_pred": "Section 463 IPC", "crag_pred": "Section 463 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "cheating by personation meaning", "gold": ["Section 416 IPC"], "rag_pred": "Section 416 IPC", "crag_pred": "Section 416 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "public servant ipc meaning", "gold": ["Section 21 IPC"], "rag_pred": "Section 21 IPC", "crag_pred": "Section 21 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "common intention ipc meaning", "gold": ["Section 34 IPC"], "rag_pred": "Section 34 IPC", "crag_pred": "Section 34 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "attempt ipc meaning", "gold": ["Section 511 IPC"], "rag_pred": "Section 307 IPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "police report meaning", "gold": ["Section 173 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "charge sheet meaning", "gold": ["Section 173 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "summons crpc meaning", "gold": ["Section 61 CRPC"], "rag_pred": "Section 67 CRPC", "crag_pred": "Section 67 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "warrant crpc meaning", "gold": ["Section 70 CRPC"], "rag_pred": "Section 72 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "revision crpc meaning", "gold": ["Section 397 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "fact evidence act meaning", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "document evidence meaning", "gold": ["Section 3 IEA"], "rag_pred": "Section 62 IEA", "crag_pred": "Section 62 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "relevancy of facts meaning", "gold": ["Section 5 IEA"], "rag_pred": "Section 6 IEA", "crag_pred": "Section 6 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "expert opinion evidence act", "gold": ["Section 45 IEA"], "rag_pred": "Section 45 IEA", "crag_pred": "Section 45 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "confession law india meaning", "gold": ["Section 24 IEA"], "rag_pred": "Section 26 IEA", "crag_pred": "Section 26 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "admission law india meaning", "gold": ["Section 17 IEA"], "rag_pred": "Section 2 CPC", "crag_pred": "Section 2 CPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is cheating law india general", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "define theft law india simple words", "gold": ["Section 378 IPC"], "rag_pred": "Section 378 IPC", "crag_pred": "Section 378 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "what is murder law india simple", "gold": ["Section 300 IPC"], "rag_pred": "Section 2 IPC", "crag_pred": "Section 2 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "fir filing india police process", "gold": ["Section 154 CRPC"], "rag_pred": "Section 173 CRPC", "crag_pred": "Section 173 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is bail india criminal law basic", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "evidence law definition simple", "gold": ["Section 3 IEA"], "rag_pred": "Section 96 IEA", "crag_pred": "Section 96 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "right to life constitution simple", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is cheating crime india explain", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "cheating vs personation difference ipc", "gold": ["Section 415 IPC", "Section 416 IPC"], "rag_pred": "Section 416 IPC", "crag_pred": "Section 416 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "ipc cheating law meaning india", "gold": ["Section 415 IPC"], "rag_pred": "Section 416 IPC", "crag_pred": "Section 416 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "iea evidence definition india", "gold": ["Section 3 IEA"], "rag_pred": "Section 1 IEA", "crag_pred": "Section 1 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "crpc fir definition india", "gold": ["Section 154 CRPC"], "rag_pred": "Section 188 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
+{"query": "what is ipc section 415", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 6 IPC", "rag_correct": 1, "crag_correct": 0, "comparison": {"gain": -1}}
+{"query": "what is ipc section 378", "gold": ["Section 378 IPC"], "rag_pred": "Section 37 IPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is ipc section 300", "gold": ["Section 300 IPC"], "rag_pred": "Section 300 IPC", "crag_pred": "Section 300 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "what is iea section 3", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "what is crpc section 154", "gold": ["Section 154 CRPC"], "rag_pred": "Section 154 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "article 21 constitution india meaning", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is criminal law cheating india definition", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "meaning of theft criminal law india", "gold": ["Section 378 IPC"], "rag_pred": "Section 378 IPC", "crag_pred": "Section 378 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "what is evidence law india section 3", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IPC", "crag_pred": "Section 3 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is fir criminal procedure india", "gold": ["Section 154 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is right to equality india constitution", "gold": ["Article 14 COI"], "rag_pred": "Article 14", "crag_pred": "Article 14", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is right to freedom india constitution", "gold": ["Article 19 COI"], "rag_pred": "Article 19", "crag_pred": "Article 19", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is robbery crime india law", "gold": ["Section 390 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is dacoity crime india law", "gold": ["Section 391 IPC"], "rag_pred": "Section 391 IPC", "crag_pred": "Section 391 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "what is forgery law india", "gold": ["Section 463 IPC"], "rag_pred": "Section 468 IPC", "crag_pred": "Section 468 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is mischief law india", "gold": ["Section 425 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is abetment law india", "gold": ["Section 107 IPC"], "rag_pred": "Section 108A IPC", "crag_pred": "Section 108A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is defamation law india", "gold": ["Section 499 IPC"], "rag_pred": "Section 199 CRPC", "crag_pred": "Section 199 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is wrongful confinement law india", "gold": ["Section 340 IPC"], "rag_pred": "Section 2 CPC", "crag_pred": "Section 2 CPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is wrongful restraint law india", "gold": ["Section 339 IPC"], "rag_pred": "Section 124 IPC", "crag_pred": "Section 124 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is criminal intimidation law india", "gold": ["Section 503 IPC"], "rag_pred": "Section 503 IPC", "crag_pred": "Section 503 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}

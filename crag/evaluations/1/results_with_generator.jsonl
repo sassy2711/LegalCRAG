@@ -1,0 +1,74 @@
+{"query": "What is cheating under IPC?", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define cheating", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is theft?", "gold": ["Section 378 IPC"], "rag_pred": "Section 378 IPC", "crag_pred": "Section 378 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define theft IPC", "gold": ["Section 378 IPC"], "rag_pred": "Section 378 IPC", "crag_pred": "Section 378 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is murder?", "gold": ["Section 300 IPC"], "rag_pred": "Section 300 IPC", "crag_pred": "Section 300 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define culpable homicide", "gold": ["Section 299 IPC"], "rag_pred": "Section 299 IPC", "crag_pred": "Section 299 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Difference between murder and culpable homicide", "gold": ["Section 299 IPC", "Section 300 IPC"], "rag_pred": "Section 300 IPC", "crag_pred": "Section 300 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is FIR?", "gold": ["Section 154 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
+{"query": "Define FIR procedure", "gold": ["Section 154 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
+{"query": "What is arrest?", "gold": ["Section 41 CRPC"], "rag_pred": "Section 44 CRPC", "crag_pred": "Section 44 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is bail?", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is evidence?", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define evidence under IEA", "gold": ["Section 3 IEA"], "rag_pred": "Section 62 IEA", "crag_pred": "Section 62 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is documentary evidence?", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is primary evidence?", "gold": ["Section 62 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is secondary evidence?", "gold": ["Section 63 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is confession?", "gold": ["Section 24 IEA"], "rag_pred": "Section 24 IEA", "crag_pred": "Section 24 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is admission?", "gold": ["Section 17 IEA"], "rag_pred": "Section 17 IEA", "crag_pred": "Section 17 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is Article 21?", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define Article 14", "gold": ["Article 14 COI"], "rag_pred": "Article 14", "crag_pred": "Article 14", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is Article 19?", "gold": ["Article 19 COI"], "rag_pred": "Article 19", "crag_pred": "Article 19", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is right to equality?", "gold": ["Article 14 COI"], "rag_pred": "Article 16", "crag_pred": "Article 16", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is right to life?", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is injunction?", "gold": ["Order 39 CPC"], "rag_pred": "Section 142 CRPC", "crag_pred": "Section 142 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is decree?", "gold": ["Section 2 CPC"], "rag_pred": "Section 37 CPC", "crag_pred": "Section 37 CPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define plaint", "gold": ["Order 7 CPC"], "rag_pred": "Section 95 IEA", "crag_pred": "Section 95 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is criminal intimidation?", "gold": ["Section 503 IPC"], "rag_pred": "Section 503 IPC", "crag_pred": "Section 503 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define wrongful restraint", "gold": ["Section 339 IPC"], "rag_pred": "Section 339 IPC", "crag_pred": "Section 339 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is wrongful confinement?", "gold": ["Section 340 IPC"], "rag_pred": "Section 340 IPC", "crag_pred": "Section 340 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is defamation?", "gold": ["Section 499 IPC"], "rag_pred": "Section 499 IPC", "crag_pred": "Section 499 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define abetment", "gold": ["Section 107 IPC"], "rag_pred": "Section 107 IPC", "crag_pred": "Section 107 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Meaning of IPC section 420", "gold": ["Section 420 IPC"], "rag_pred": "Section 420 IPC", "crag_pred": "Section 420 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Explain section 302 IPC", "gold": ["Section 302 IPC"], "rag_pred": "Section 302 IPC", "crag_pred": "Section 302 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Explain section 376 IPC", "gold": ["Section 376 IPC"], "rag_pred": "Section 376D IPC", "crag_pred": "Section 376D IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is public nuisance?", "gold": ["Section 268 IPC"], "rag_pred": "Section 268 IPC", "crag_pred": "Section 268 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define assault", "gold": ["Section 351 IPC"], "rag_pred": "Section 351 IPC", "crag_pred": "Section 351 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is battery?", "gold": ["Section 350 IPC"], "rag_pred": "Section 80 IPC", "crag_pred": "Section 80 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is res judicata?", "gold": ["Section 11 CPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is res sub judice?", "gold": ["Section 10 CPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define cognizable offence", "gold": ["Section 2 CRPC"], "rag_pred": "Section 6 IPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define non cognizable offence", "gold": ["Section 2 CRPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is dying declaration?", "gold": ["Section 32 IEA"], "rag_pred": "Section 46 IPC", "crag_pred": "Section 46 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define burden of proof", "gold": ["Section 101 IEA"], "rag_pred": "Section 101 IEA", "crag_pred": "Section 101 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is amendment of constitution?", "gold": ["Article 368 COI"], "rag_pred": "Article 4", "crag_pred": "Article 4", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is sedition?", "gold": ["Section 124A IPC"], "rag_pred": "Section 124A IPC", "crag_pred": "Section 124A IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define robbery", "gold": ["Section 390 IPC"], "rag_pred": "Section 390 IPC", "crag_pred": "Section 390 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is dacoity?", "gold": ["Section 391 IPC"], "rag_pred": "Section 391 IPC", "crag_pred": "Section 391 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is mischief IPC?", "gold": ["Section 425 IPC"], "rag_pred": "Section 425 IPC", "crag_pred": "Section 425 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define forgery", "gold": ["Section 463 IPC"], "rag_pred": "Section 463 IPC", "crag_pred": "Section 463 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is cheating by personation?", "gold": ["Section 416 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is public servant?", "gold": ["Section 21 IPC"], "rag_pred": "Section 21 IPC", "crag_pred": "Section 21 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is common intention?", "gold": ["Section 34 IPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define attempt", "gold": ["Section 511 IPC"], "rag_pred": "Section 307 IPC", "crag_pred": "Section 307 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is injunction CPC?", "gold": ["Order 39 CPC"], "rag_pred": "Section 95 CPC", "crag_pred": "Section 95 CPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is evidence act section 3?", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is bail in criminal law?", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 229A IPC", "crag_pred": "Section 229A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is FIR under CRPC?", "gold": ["Section 154 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define police report", "gold": ["Section 173 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is charge sheet?", "gold": ["Section 173 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is summons?", "gold": ["Section 61 CRPC"], "rag_pred": "Section 113 CRPC", "crag_pred": "Section 113 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is warrant?", "gold": ["Section 70 CRPC"], "rag_pred": "Section 73 CRPC", "crag_pred": "Section 73 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define trial", "gold": ["CRPC"], "rag_pred": "Section 220 CRPC", "crag_pred": "Section 220 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is revision?", "gold": ["Section 397 CRPC"], "rag_pred": "Section 115 CPC", "crag_pred": "Section 115 CPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is appeal?", "gold": ["CRPC"], "rag_pred": "Section 2 CPC", "crag_pred": "Section 2 CPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is evidence law?", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define court under evidence act", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is fact under evidence act?", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "Define document", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "What is relevancy of facts?", "gold": ["Section 5 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is hearsay evidence?", "gold": ["IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define expert opinion", "gold": ["Section 45 IEA"], "rag_pred": "Section 50 IEA", "crag_pred": "Section 50 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is confession under evidence act?", "gold": ["Section 24 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is admission evidence?", "gold": ["Section 17 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}

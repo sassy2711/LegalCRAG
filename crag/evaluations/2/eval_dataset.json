@@ -1,0 +1,174 @@
+[
+  {"query": "What is cheating under IPC?", "gold_citations": ["Section 415 IPC"]},
+  {"query": "Define cheating", "gold_citations": ["Section 415 IPC"]},
+  {"query": "cheating ipc meaning", "gold_citations": ["Section 415 IPC"]},
+  {"query": "ipc cheating definition", "gold_citations": ["Section 415 IPC"]},
+
+  {"query": "What is theft?", "gold_citations": ["Section 378 IPC"]},
+  {"query": "Define theft IPC", "gold_citations": ["Section 378 IPC"]},
+  {"query": "theft ipc meaning", "gold_citations": ["Section 378 IPC"]},
+
+  {"query": "What is murder?", "gold_citations": ["Section 300 IPC"]},
+  {"query": "Define culpable homicide", "gold_citations": ["Section 299 IPC"]},
+  {"query": "culpable homicide ipc meaning", "gold_citations": ["Section 299 IPC"]},
+  {"query": "difference murder culpable homicide ipc", "gold_citations": ["Section 299 IPC", "Section 300 IPC"]},
+
+  {"query": "What is FIR?", "gold_citations": ["Section 154 CRPC"]},
+  {"query": "fir crpc meaning", "gold_citations": ["Section 154 CRPC"]},
+  {"query": "define fir police complaint", "gold_citations": ["Section 154 CRPC"]},
+
+  {"query": "What is arrest?", "gold_citations": ["Section 41 CRPC"]},
+  {"query": "arrest crpc definition", "gold_citations": ["Section 41 CRPC"]},
+
+  {"query": "What is bail?", "gold_citations": ["Section 436 CRPC", "Section 437 CRPC"]},
+  {"query": "bail crpc meaning", "gold_citations": ["Section 436 CRPC", "Section 437 CRPC"]},
+  {"query": "anticipatory bail meaning", "gold_citations": ["Section 438 CRPC"]},
+
+  {"query": "What is evidence?", "gold_citations": ["Section 3 IEA"]},
+  {"query": "evidence iea definition", "gold_citations": ["Section 3 IEA"]},
+  {"query": "meaning of evidence law india", "gold_citations": ["Section 3 IEA"]},
+
+  {"query": "primary evidence meaning", "gold_citations": ["Section 62 IEA"]},
+  {"query": "secondary evidence meaning", "gold_citations": ["Section 63 IEA"]},
+
+  {"query": "What is confession?", "gold_citations": ["Section 24 IEA"]},
+  {"query": "confession evidence act meaning", "gold_citations": ["Section 24 IEA"]},
+
+  {"query": "What is admission?", "gold_citations": ["Section 17 IEA"]},
+  {"query": "admission evidence meaning", "gold_citations": ["Section 17 IEA"]},
+
+  {"query": "Article 21 meaning", "gold_citations": ["Article 21 COI"]},
+  {"query": "right to life india constitution", "gold_citations": ["Article 21 COI"]},
+
+  {"query": "Article 14 meaning", "gold_citations": ["Article 14 COI"]},
+  {"query": "right to equality india", "gold_citations": ["Article 14 COI"]},
+
+  {"query": "Article 19 meaning", "gold_citations": ["Article 19 COI"]},
+
+  {"query": "What is injunction?", "gold_citations": ["Order 39 CPC"]},
+  {"query": "injunction cpc meaning", "gold_citations": ["Order 39 CPC"]},
+
+  {"query": "What is decree?", "gold_citations": ["Section 2 CPC"]},
+
+  {"query": "criminal intimidation meaning", "gold_citations": ["Section 503 IPC"]},
+  {"query": "wrongful restraint meaning", "gold_citations": ["Section 339 IPC"]},
+  {"query": "wrongful confinement meaning", "gold_citations": ["Section 340 IPC"]},
+
+  {"query": "defamation ipc meaning", "gold_citations": ["Section 499 IPC"]},
+  {"query": "abetment ipc meaning", "gold_citations": ["Section 107 IPC"]},
+
+  {"query": "section 420 ipc meaning", "gold_citations": ["Section 420 IPC"]},
+  {"query": "section 302 ipc meaning", "gold_citations": ["Section 302 IPC"]},
+  {"query": "section 376 ipc meaning", "gold_citations": ["Section 376 IPC"]},
+
+  {"query": "public nuisance ipc meaning", "gold_citations": ["Section 268 IPC"]},
+
+  {"query": "assault ipc meaning", "gold_citations": ["Section 351 IPC"]},
+  {"query": "battery ipc meaning", "gold_citations": ["Section 350 IPC"]},
+
+  {"query": "res judicata meaning", "gold_citations": ["Section 11 CPC"]},
+  {"query": "res sub judice meaning", "gold_citations": ["Section 10 CPC"]},
+
+  {"query": "cognizable offence meaning", "gold_citations": ["Section 2 CRPC"]},
+  {"query": "non cognizable offence meaning", "gold_citations": ["Section 2 CRPC"]},
+
+  {"query": "dying declaration meaning", "gold_citations": ["Section 32 IEA"]},
+  {"query": "burden of proof meaning", "gold_citations": ["Section 101 IEA"]},
+
+  {"query": "constitution amendment india", "gold_citations": ["Article 368 COI"]},
+
+  {"query": "sedition ipc meaning", "gold_citations": ["Section 124A IPC"]},
+
+  {"query": "robbery ipc meaning", "gold_citations": ["Section 390 IPC"]},
+  {"query": "dacoity ipc meaning", "gold_citations": ["Section 391 IPC"]},
+
+  {"query": "mischief ipc meaning", "gold_citations": ["Section 425 IPC"]},
+  {"query": "forgery ipc meaning", "gold_citations": ["Section 463 IPC"]},
+
+  {"query": "cheating by personation meaning", "gold_citations": ["Section 416 IPC"]},
+
+  {"query": "public servant ipc meaning", "gold_citations": ["Section 21 IPC"]},
+  {"query": "common intention ipc meaning", "gold_citations": ["Section 34 IPC"]},
+
+  {"query": "attempt ipc meaning", "gold_citations": ["Section 511 IPC"]},
+
+  {"query": "police report meaning", "gold_citations": ["Section 173 CRPC"]},
+  {"query": "charge sheet meaning", "gold_citations": ["Section 173 CRPC"]},
+
+  {"query": "summons crpc meaning", "gold_citations": ["Section 61 CRPC"]},
+  {"query": "warrant crpc meaning", "gold_citations": ["Section 70 CRPC"]},
+
+  {"query": "revision crpc meaning", "gold_citations": ["Section 397 CRPC"]},
+
+  {"query": "fact evidence act meaning", "gold_citations": ["Section 3 IEA"]},
+  {"query": "document evidence meaning", "gold_citations": ["Section 3 IEA"]},
+
+  {"query": "relevancy of facts meaning", "gold_citations": ["Section 5 IEA"]},
+
+  {"query": "expert opinion evidence act", "gold_citations": ["Section 45 IEA"]},
+
+  {"query": "confession law india meaning", "gold_citations": ["Section 24 IEA"]},
+
+  {"query": "admission law india meaning", "gold_citations": ["Section 17 IEA"]},
+
+  {"query": "what is cheating law india general", "gold_citations": ["Section 415 IPC"]},
+  {"query": "define theft law india simple words", "gold_citations": ["Section 378 IPC"]},
+  {"query": "what is murder law india simple", "gold_citations": ["Section 300 IPC"]},
+
+  {"query": "fir filing india police process", "gold_citations": ["Section 154 CRPC"]},
+
+  {"query": "what is bail india criminal law basic", "gold_citations": ["Section 436 CRPC", "Section 437 CRPC"]},
+
+  {"query": "evidence law definition simple", "gold_citations": ["Section 3 IEA"]},
+
+  {"query": "right to life constitution simple", "gold_citations": ["Article 21 COI"]},
+
+  {"query": "what is cheating crime india explain", "gold_citations": ["Section 415 IPC"]},
+  {"query": "cheating vs personation difference ipc", "gold_citations": ["Section 415 IPC", "Section 416 IPC"]},
+
+  {"query": "ipc cheating law meaning india", "gold_citations": ["Section 415 IPC"]},
+
+  {"query": "iea evidence definition india", "gold_citations": ["Section 3 IEA"]},
+
+  {"query": "crpc fir definition india", "gold_citations": ["Section 154 CRPC"]},
+
+  {"query": "what is ipc section 415", "gold_citations": ["Section 415 IPC"]},
+  {"query": "what is ipc section 378", "gold_citations": ["Section 378 IPC"]},
+  {"query": "what is ipc section 300", "gold_citations": ["Section 300 IPC"]},
+
+  {"query": "what is iea section 3", "gold_citations": ["Section 3 IEA"]},
+
+  {"query": "what is crpc section 154", "gold_citations": ["Section 154 CRPC"]},
+
+  {"query": "article 21 constitution india meaning", "gold_citations": ["Article 21 COI"]},
+
+  {"query": "what is criminal law cheating india definition", "gold_citations": ["Section 415 IPC"]},
+
+  {"query": "meaning of theft criminal law india", "gold_citations": ["Section 378 IPC"]},
+
+  {"query": "what is evidence law india section 3", "gold_citations": ["Section 3 IEA"]},
+
+  {"query": "what is fir criminal procedure india", "gold_citations": ["Section 154 CRPC"]},
+
+  {"query": "what is right to equality india constitution", "gold_citations": ["Article 14 COI"]},
+
+  {"query": "what is right to freedom india constitution", "gold_citations": ["Article 19 COI"]},
+
+  {"query": "what is robbery crime india law", "gold_citations": ["Section 390 IPC"]},
+
+  {"query": "what is dacoity crime india law", "gold_citations": ["Section 391 IPC"]},
+
+  {"query": "what is forgery law india", "gold_citations": ["Section 463 IPC"]},
+
+  {"query": "what is mischief law india", "gold_citations": ["Section 425 IPC"]},
+
+  {"query": "what is abetment law india", "gold_citations": ["Section 107 IPC"]},
+
+  {"query": "what is defamation law india", "gold_citations": ["Section 499 IPC"]},
+
+  {"query": "what is wrongful confinement law india", "gold_citations": ["Section 340 IPC"]},
+
+  {"query": "what is wrongful restraint law india", "gold_citations": ["Section 339 IPC"]},
+
+  {"query": "what is criminal intimidation law india", "gold_citations": ["Section 503 IPC"]}
+]
