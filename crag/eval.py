@@ -6,6 +6,8 @@ from pipeline import crag_pipeline
 
 
 def extract_citations(results):
+    if results is None:
+        return []
     return [r["citation"] for r in results]
 
 

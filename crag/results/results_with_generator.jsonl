@@ -2,7 +2,7 @@
 {"query": "definition of bail", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "cheating crpc meaning", "gold": ["Section 415 IPC"], "rag_pred": "Section 416 IPC", "crag_pred": "Section 416 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "article 21 meaning", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "legal meaning of anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "legal meaning of anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "What is arrest?", "gold": ["Section 41 CRPC"], "rag_pred": "Section 44 CRPC", "crag_pred": "Section 44 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "india law abetment", "gold": ["Section 107 IPC"], "rag_pred": "Section 108A IPC", "crag_pred": "Section 108A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "evidence definition india", "gold": ["Section 3 IEA"], "rag_pred": "Section 1 IEA", "crag_pred": "Section 1 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
@@ -38,11 +38,11 @@
 {"query": "definition of dacoity", "gold": ["Section 391 IPC"], "rag_pred": "Section 391 IPC", "crag_pred": "Section 391 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "cheating crpc meaning", "gold": ["Section 415 IPC"], "rag_pred": "Section 416 IPC", "crag_pred": "Section 416 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "legal meaning of secondary evidence", "gold": ["Section 63 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "legal meaning of fir", "gold": ["Section 154 CRPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
+{"query": "legal meaning of fir", "gold": ["Section 154 CRPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "Define admission", "gold": ["Section 17 IEA"], "rag_pred": "Section 17 IEA", "crag_pred": "Section 17 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "explain article 19 in simple terms", "gold": ["Article 19 COI"], "rag_pred": "Article 19", "crag_pred": "Article 19", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "primary evidence law india", "gold": ["Section 62 IEA"], "rag_pred": "Section 62 IEA", "crag_pred": "Section 62 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "What is anticipatory bail?", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "What is anticipatory bail?", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is theft in law", "gold": ["Section 378 IPC"], "rag_pred": "Section 378 IPC", "crag_pred": "Section 378 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "india law article 21", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is defamation concept", "gold": ["Section 499 IPC"], "rag_pred": "Section 499 IPC", "crag_pred": "Section 499 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
@@ -50,14 +50,14 @@
 {"query": "secondary evidence crpc meaning", "gold": ["Section 63 IEA"], "rag_pred": "Section 279 CRPC", "crag_pred": "Section 279 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "abetment law india", "gold": ["Section 107 IPC"], "rag_pred": "Section 108A IPC", "crag_pred": "Section 108A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "explain arrest in simple terms", "gold": ["Section 41 CRPC"], "rag_pred": "Section 46 CRPC", "crag_pred": "Section 46 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "fir law india", "gold": ["Section 154 CRPC"], "rag_pred": "Section 198A CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
+{"query": "fir law india", "gold": ["Section 154 CRPC"], "rag_pred": "Section 198A CRPC", "crag_pred": "Section 198A CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "dacoity under indian law", "gold": ["Section 391 IPC"], "rag_pred": "Section 395 IPC", "crag_pred": "Section 395 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "murder under indian law", "gold": ["Section 300 IPC"], "rag_pred": "Section 2 IPC", "crag_pred": "Section 2 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "explain abetment", "gold": ["Section 107 IPC"], "rag_pred": "Section 107 IPC", "crag_pred": "Section 107 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "defamation meaning in indian law", "gold": ["Section 499 IPC"], "rag_pred": "Section 199 CRPC", "crag_pred": "Section 199 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "bail ipc meaning", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 229A IPC", "crag_pred": "Section 229A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "forgery indian law explain", "gold": ["Section 463 IPC"], "rag_pred": "Section 468 IPC", "crag_pred": "Section 468 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "anticipatory bail law india", "gold": ["Section 438 CRPC"], "rag_pred": "Section 356 CRPC", "crag_pred": "Section 437 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "anticipatory bail law india", "gold": ["Section 438 CRPC"], "rag_pred": "Section 356 CRPC", "crag_pred": "Section 356 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is fir legal definition", "gold": ["Section 154 CRPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
 {"query": "article 14 indian law explain", "gold": ["Article 14 COI"], "rag_pred": "Article 14", "crag_pred": "Article 14", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "definition of article 21", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
@@ -74,11 +74,11 @@
 {"query": "What is murder?", "gold": ["Section 300 IPC"], "rag_pred": "Section 300 IPC", "crag_pred": "Section 300 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "culpable homicide ipc meaning", "gold": ["Section 299 IPC"], "rag_pred": "Section 299 IPC", "crag_pred": "Section 299 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "culpable homicide law india", "gold": ["Section 299 IPC"], "rag_pred": "Section 299 IPC", "crag_pred": "Section 299 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "definition of anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "india law anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 60 CRPC", "crag_pred": "Section 437 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "definition of anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "india law anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 60 CRPC", "crag_pred": "Section 60 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "explain culpable homicide in simple terms", "gold": ["Section 299 IPC"], "rag_pred": "Section 301 IPC", "crag_pred": "Section 301 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "Define robbery", "gold": ["Section 390 IPC"], "rag_pred": "Section 390 IPC", "crag_pred": "Section 390 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "india law anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 60 CRPC", "crag_pred": "Section 437 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "india law anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 60 CRPC", "crag_pred": "Section 60 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "definition of forgery", "gold": ["Section 463 IPC"], "rag_pred": "Section 463 IPC", "crag_pred": "Section 463 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "What is murder?", "gold": ["Section 300 IPC"], "rag_pred": "Section 300 IPC", "crag_pred": "Section 300 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "culpable homicide law india", "gold": ["Section 299 IPC"], "rag_pred": "Section 299 IPC", "crag_pred": "Section 299 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
@@ -120,7 +120,7 @@
 {"query": "arrest simple meaning", "gold": ["Section 41 CRPC"], "rag_pred": "Section 46 CRPC", "crag_pred": "Section 46 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is secondary evidence legal definition", "gold": ["Section 63 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "dacoity indian law explain", "gold": ["Section 391 IPC"], "rag_pred": "Section 391 IPC", "crag_pred": "Section 391 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "explain bail in simple terms", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 229A IPC", "rag_correct": 1, "crag_correct": 0, "comparison": {"gain": -1}}
+{"query": "explain bail in simple terms", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "article 21 law india", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "cheating law india", "gold": ["Section 415 IPC"], "rag_pred": "Section 417 IPC", "crag_pred": "Section 417 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "murder iea meaning", "gold": ["Section 300 IPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
@@ -139,7 +139,7 @@
 {"query": "murder meaning in indian law", "gold": ["Section 300 IPC"], "rag_pred": "Section 2 IPC", "crag_pred": "Section 2 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "bail law india", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 437 CRPC", "crag_pred": "Section 437 CRPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "what is confession concept", "gold": ["Section 24 IEA"], "rag_pred": "Section 24 IEA", "crag_pred": "Section 24 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "abetment iea meaning", "gold": ["Section 107 IPC"], "rag_pred": "Section 107 IPC", "crag_pred": "Section 107 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
+{"query": "abetment iea meaning", "gold": ["Section 107 IPC"], "rag_pred": "Section 107 IPC", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 0, "comparison": {"gain": -1}}
 {"query": "what is forgery legal definition", "gold": ["Section 463 IPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "admission simple meaning", "gold": ["Section 17 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "article 14 ipc meaning", "gold": ["Article 14 COI"], "rag_pred": "Article 14", "crag_pred": "Article 14", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
@@ -148,18 +148,18 @@
 {"query": "robbery meaning in indian law", "gold": ["Section 390 IPC"], "rag_pred": "Section 390 IPC", "crag_pred": "Section 390 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "explain fir in simple terms", "gold": ["Section 154 CRPC"], "rag_pred": "Section 180 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
 {"query": "culpable homicide crpc meaning", "gold": ["Section 299 IPC"], "rag_pred": "Section 299 IPC", "crag_pred": "Section 299 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "Define anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "defamation ipc meaning", "gold": ["Section 499 IPC"], "rag_pred": "Section 499 IPC", "crag_pred": "Section 499 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "arrest law india", "gold": ["Section 41 CRPC"], "rag_pred": "Section 60 CRPC", "crag_pred": "Section 60 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "fir simple meaning", "gold": ["Section 154 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
 {"query": "definition of robbery", "gold": ["Section 390 IPC"], "rag_pred": "Section 390 IPC", "crag_pred": "Section 390 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "explain article 19", "gold": ["Article 19 COI"], "rag_pred": "Article 19", "crag_pred": "Article 19", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "anticipatory bail simple meaning", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "anticipatory bail simple meaning", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "explain robbery", "gold": ["Section 390 IPC"], "rag_pred": "Section 390 IPC", "crag_pred": "Section 390 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "forgery meaning in indian law", "gold": ["Section 463 IPC"], "rag_pred": "Section 463 IPC", "crag_pred": "Section 463 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "theft law india", "gold": ["Section 378 IPC"], "rag_pred": "Section 379 IPC", "crag_pred": "Section 379 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "culpable homicide indian law explain", "gold": ["Section 299 IPC"], "rag_pred": "Section 299 IPC", "crag_pred": "Section 299 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "explain bail in simple terms", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 229A IPC", "rag_correct": 1, "crag_correct": 0, "comparison": {"gain": -1}}
+{"query": "explain bail in simple terms", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "india law theft", "gold": ["Section 378 IPC"], "rag_pred": "Section 360 IPC", "crag_pred": "Section 360 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "evidence simple meaning", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "arrest law india", "gold": ["Section 41 CRPC"], "rag_pred": "Section 60 CRPC", "crag_pred": "Section 60 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
@@ -175,7 +175,7 @@
 {"query": "explain abetment in simple terms", "gold": ["Section 107 IPC"], "rag_pred": "Section 107 IPC", "crag_pred": "Section 107 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "Define culpable homicide", "gold": ["Section 299 IPC"], "rag_pred": "Section 299 IPC", "crag_pred": "Section 299 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "dacoity simple meaning", "gold": ["Section 391 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "forgery crpc meaning", "gold": ["Section 463 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "forgery crpc meaning", "gold": ["Section 463 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 463 IPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
 {"query": "defamation iea meaning", "gold": ["Section 499 IPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "evidence law india", "gold": ["Section 3 IEA"], "rag_pred": "Section 1 IEA", "crag_pred": "Section 1 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "india law evidence", "gold": ["Section 3 IEA"], "rag_pred": "Section 1 IEA", "crag_pred": "Section 1 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
@@ -185,10 +185,10 @@
 {"query": "dacoity simple meaning", "gold": ["Section 391 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "explain fir", "gold": ["Section 154 CRPC"], "rag_pred": "Section 180 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
 {"query": "murder under indian law", "gold": ["Section 300 IPC"], "rag_pred": "Section 2 IPC", "crag_pred": "Section 2 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "explain anticipatory bail in simple terms", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 229A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "explain anticipatory bail in simple terms", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "arrest iea meaning", "gold": ["Section 41 CRPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "legal meaning of culpable homicide", "gold": ["Section 299 IPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "explain anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 437 CRPC", "crag_pred": "Section 229A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "explain anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 437 CRPC", "crag_pred": "Section 437 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "robbery meaning", "gold": ["Section 390 IPC"], "rag_pred": "Section 390 IPC", "crag_pred": "Section 390 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "legal meaning of secondary evidence", "gold": ["Section 63 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is fir legal definition", "gold": ["Section 154 CRPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
@@ -211,7 +211,7 @@
 {"query": "explain admission", "gold": ["Section 17 IEA"], "rag_pred": "Section 17 IEA", "crag_pred": "Section 17 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "what is evidence legal definition", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "What is dacoity?", "gold": ["Section 391 IPC"], "rag_pred": "Section 391 IPC", "crag_pred": "Section 391 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "Define anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "definition of arrest", "gold": ["Section 41 CRPC"], "rag_pred": "Section 43 CRPC", "crag_pred": "Section 43 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "definition of primary evidence", "gold": ["Section 62 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is forgery concept", "gold": ["Section 463 IPC"], "rag_pred": "Section 463 IPC", "crag_pred": "Section 463 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
@@ -220,7 +220,7 @@
 {"query": "article 14 crpc meaning", "gold": ["Article 14 COI"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "evidence iea meaning", "gold": ["Section 3 IEA"], "rag_pred": "Section 62 IEA", "crag_pred": "Section 62 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "defamation simple meaning", "gold": ["Section 499 IPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "arrest crpc meaning", "gold": ["Section 41 CRPC"], "rag_pred": "Section 80 CRPC", "crag_pred": "Section 80 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "arrest crpc meaning", "gold": ["Section 41 CRPC"], "rag_pred": "Section 80 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is dacoity legal definition", "gold": ["Section 391 IPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "explain dacoity in simple terms", "gold": ["Section 391 IPC"], "rag_pred": "Section 391 IPC", "crag_pred": "Section 391 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "what is bail legal definition", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
@@ -231,16 +231,16 @@
 {"query": "theft meaning in indian law", "gold": ["Section 378 IPC"], "rag_pred": "Section 378 IPC", "crag_pred": "Section 378 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "What is cheating?", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "explain admission", "gold": ["Section 17 IEA"], "rag_pred": "Section 17 IEA", "crag_pred": "Section 17 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "bail iea meaning", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "bail iea meaning", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "robbery under indian law", "gold": ["Section 390 IPC"], "rag_pred": "Section 392 IPC", "crag_pred": "Section 392 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "Define fir", "gold": ["Section 154 CRPC"], "rag_pred": "Section 135 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
-{"query": "legal meaning of anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "legal meaning of anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "article 19 under indian law", "gold": ["Article 19 COI"], "rag_pred": "Article 19", "crag_pred": "Article 19", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "article 21 meaning in indian law", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "evidence iea meaning", "gold": ["Section 3 IEA"], "rag_pred": "Section 62 IEA", "crag_pred": "Section 62 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is article 21 legal definition", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is bail in law", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "article 21 iea meaning", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "article 21 iea meaning", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "defamation indian law explain", "gold": ["Section 499 IPC"], "rag_pred": "Section 199 CRPC", "crag_pred": "Section 199 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is abetment legal definition", "gold": ["Section 107 IPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "legal meaning of article 14", "gold": ["Article 14 COI"], "rag_pred": "Article 14", "crag_pred": "Article 14", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
@@ -258,7 +258,7 @@
 {"query": "evidence meaning in indian law", "gold": ["Section 3 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "explain murder", "gold": ["Section 300 IPC"], "rag_pred": "Section 307 IPC", "crag_pred": "Section 307 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "forgery iea meaning", "gold": ["Section 463 IPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "definition of anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "definition of anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "theft simple meaning", "gold": ["Section 378 IPC"], "rag_pred": "Section 378 IPC", "crag_pred": "Section 378 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "what is article 21 concept", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "Define murder", "gold": ["Section 300 IPC"], "rag_pred": "Section 300 IPC", "crag_pred": "Section 300 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
@@ -269,29 +269,29 @@
 {"query": "what is dacoity concept", "gold": ["Section 391 IPC"], "rag_pred": "Section 391 IPC", "crag_pred": "Section 391 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "admission under indian law", "gold": ["Section 17 IEA"], "rag_pred": "Section 17 IEA", "crag_pred": "Section 17 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "explain confession in simple terms", "gold": ["Section 24 IEA"], "rag_pred": "Section 29 IEA", "crag_pred": "Section 29 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "bail definition india", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 229A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "bail definition india", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "explain article 19 in simple terms", "gold": ["Article 19 COI"], "rag_pred": "Article 19", "crag_pred": "Article 19", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "explain article 21 in simple terms", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "fir under indian law", "gold": ["Section 154 CRPC"], "rag_pred": "Section 4 CRPC", "crag_pred": "Section 4 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "cheating iea meaning", "gold": ["Section 415 IPC"], "rag_pred": "Section 416 IPC", "crag_pred": "Section 416 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "cheating iea meaning", "gold": ["Section 415 IPC"], "rag_pred": "Section 416 IPC", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is fir legal definition", "gold": ["Section 154 CRPC"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
-{"query": "what is bail concept", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is bail concept", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "What is robbery?", "gold": ["Section 390 IPC"], "rag_pred": "Section 390 IPC", "crag_pred": "Section 390 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "cheating under indian law", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "cheating iea meaning", "gold": ["Section 415 IPC"], "rag_pred": "Section 416 IPC", "crag_pred": "Section 416 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "cheating iea meaning", "gold": ["Section 415 IPC"], "rag_pred": "Section 416 IPC", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "bail under indian law", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 4 CRPC", "crag_pred": "Section 4 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "bail meaning in indian law", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "bail meaning in indian law", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is secondary evidence concept", "gold": ["Section 63 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "Define article 19", "gold": ["Article 19 COI"], "rag_pred": "Article 19", "crag_pred": "Article 19", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "abetment meaning", "gold": ["Section 107 IPC"], "rag_pred": "Section 107 IPC", "crag_pred": "Section 107 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "what is cheating legal definition", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "anticipatory bail definition india", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "anticipatory bail definition india", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "admission simple meaning", "gold": ["Section 17 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is forgery concept", "gold": ["Section 463 IPC"], "rag_pred": "Section 463 IPC", "crag_pred": "Section 463 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "forgery meaning", "gold": ["Section 463 IPC"], "rag_pred": "Section 463 IPC", "crag_pred": "Section 463 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "article 14 crpc meaning", "gold": ["Article 14 COI"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "confession meaning", "gold": ["Section 24 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "theft crpc meaning", "gold": ["Section 378 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "theft crpc meaning", "gold": ["Section 378 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "explain article 14", "gold": ["Article 14 COI"], "rag_pred": "Article 14", "crag_pred": "Article 14", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "admission iea meaning", "gold": ["Section 17 IEA"], "rag_pred": "Section 17 IEA", "crag_pred": "Section 17 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "What is admission?", "gold": ["Section 17 IEA"], "rag_pred": "Section 17 IEA", "crag_pred": "Section 17 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
@@ -312,13 +312,13 @@
 {"query": "Define primary evidence", "gold": ["Section 62 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "confession definition india", "gold": ["Section 24 IEA"], "rag_pred": "Section 24 IEA", "crag_pred": "Section 24 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "robbery simple meaning", "gold": ["Section 390 IPC"], "rag_pred": "Section 390 IPC", "crag_pred": "Section 390 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "bail indian law explain", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 4 CRPC", "crag_pred": "Section 437 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
+{"query": "bail indian law explain", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 4 CRPC", "crag_pred": "Section 4 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "What is abetment?", "gold": ["Section 107 IPC"], "rag_pred": "Section 107 IPC", "crag_pred": "Section 107 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "explain murder", "gold": ["Section 300 IPC"], "rag_pred": "Section 307 IPC", "crag_pred": "Section 307 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "dacoity under indian law", "gold": ["Section 391 IPC"], "rag_pred": "Section 395 IPC", "crag_pred": "Section 395 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is defamation concept", "gold": ["Section 499 IPC"], "rag_pred": "Section 499 IPC", "crag_pred": "Section 499 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "what is anticipatory bail in law", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "Define bail", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "what is anticipatory bail in law", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define bail", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "murder indian law explain", "gold": ["Section 300 IPC"], "rag_pred": "Section 2 IPC", "crag_pred": "Section 2 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "defamation meaning", "gold": ["Section 499 IPC"], "rag_pred": "Section 499 IPC", "crag_pred": "Section 499 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "cheating meaning in indian law", "gold": ["Section 415 IPC"], "rag_pred": "Section 416 IPC", "crag_pred": "Section 416 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
@@ -334,7 +334,7 @@
 {"query": "article 21 indian law explain", "gold": ["Article 21 COI"], "rag_pred": "Article 21", "crag_pred": "Article 21", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "primary evidence simple meaning", "gold": ["Section 62 IEA"], "rag_pred": "Section 62 IEA", "crag_pred": "Section 62 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "admission simple meaning", "gold": ["Section 17 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "theft crpc meaning", "gold": ["Section 378 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "theft crpc meaning", "gold": ["Section 378 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "definition of confession", "gold": ["Section 24 IEA"], "rag_pred": "Section 24 IEA", "crag_pred": "Section 24 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "What is secondary evidence?", "gold": ["Section 63 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "india law fir", "gold": ["Section 154 CRPC"], "rag_pred": "Section 4 CRPC", "crag_pred": "Section 4 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
@@ -347,7 +347,7 @@
 {"query": "legal meaning of theft", "gold": ["Section 378 IPC"], "rag_pred": "Section 120A IPC", "crag_pred": "Section 120A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "Define defamation", "gold": ["Section 499 IPC"], "rag_pred": "Section 499 IPC", "crag_pred": "Section 499 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "cheating indian law explain", "gold": ["Section 415 IPC"], "rag_pred": "Section 415 IPC", "crag_pred": "Section 415 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "forgery crpc meaning", "gold": ["Section 463 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "forgery crpc meaning", "gold": ["Section 463 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 463 IPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
 {"query": "confession definition india", "gold": ["Section 24 IEA"], "rag_pred": "Section 24 IEA", "crag_pred": "Section 24 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "abetment definition india", "gold": ["Section 107 IPC"], "rag_pred": "Section 108A IPC", "crag_pred": "Section 108A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "cheating meaning", "gold": ["Section 415 IPC"], "rag_pred": "Section 416 IPC", "crag_pred": "Section 416 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
@@ -361,35 +361,35 @@
 {"query": "robbery under indian law", "gold": ["Section 390 IPC"], "rag_pred": "Section 392 IPC", "crag_pred": "Section 392 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "culpable homicide crpc meaning", "gold": ["Section 299 IPC"], "rag_pred": "Section 299 IPC", "crag_pred": "Section 299 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "what is secondary evidence concept", "gold": ["Section 63 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "Define bail", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define bail", "gold": ["Section 436 CRPC", "Section 437 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "secondary evidence iea meaning", "gold": ["Section 63 IEA"], "rag_pred": "Section 63 IEA", "crag_pred": "Section 63 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "india law fir", "gold": ["Section 154 CRPC"], "rag_pred": "Section 4 CRPC", "crag_pred": "Section 4 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is confession concept", "gold": ["Section 24 IEA"], "rag_pred": "Section 24 IEA", "crag_pred": "Section 24 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "primary evidence meaning in indian law", "gold": ["Section 62 IEA"], "rag_pred": "Section 62 IEA", "crag_pred": "Section 62 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "fir under indian law", "gold": ["Section 154 CRPC"], "rag_pred": "Section 4 CRPC", "crag_pred": "Section 4 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "abetment iea meaning", "gold": ["Section 107 IPC"], "rag_pred": "Section 107 IPC", "crag_pred": "Section 107 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "explain anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 437 CRPC", "crag_pred": "Section 229A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "article 14 iea meaning", "gold": ["Article 14 COI"], "rag_pred": "Article 14", "crag_pred": "Article 14", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "forgery crpc meaning", "gold": ["Section 463 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "abetment iea meaning", "gold": ["Section 107 IPC"], "rag_pred": "Section 107 IPC", "crag_pred": "Section 3 IEA", "rag_correct": 1, "crag_correct": 0, "comparison": {"gain": -1}}
+{"query": "explain anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 437 CRPC", "crag_pred": "Section 437 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "article 14 iea meaning", "gold": ["Article 14 COI"], "rag_pred": "Article 14", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "forgery crpc meaning", "gold": ["Section 463 IPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 463 IPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
 {"query": "explain dacoity in simple terms", "gold": ["Section 391 IPC"], "rag_pred": "Section 391 IPC", "crag_pred": "Section 391 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "robbery indian law explain", "gold": ["Section 390 IPC"], "rag_pred": "Section 390 IPC", "crag_pred": "Section 390 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "legal meaning of murder", "gold": ["Section 300 IPC"], "rag_pred": "Section 120A IPC", "crag_pred": "Section 120A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "abetment meaning in indian law", "gold": ["Section 107 IPC"], "rag_pred": "Section 108A IPC", "crag_pred": "Section 108A IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "primary evidence definition india", "gold": ["Section 62 IEA"], "rag_pred": "Section 62 IEA", "crag_pred": "Section 62 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "Define arrest", "gold": ["Section 41 CRPC"], "rag_pred": "Section 43 CRPC", "crag_pred": "Section 43 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "anticipatory bail meaning", "gold": ["Section 438 CRPC"], "rag_pred": "Section 437 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "anticipatory bail meaning", "gold": ["Section 438 CRPC"], "rag_pred": "Section 437 CRPC", "crag_pred": "Section 437 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "explain fir in simple terms", "gold": ["Section 154 CRPC"], "rag_pred": "Section 180 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
 {"query": "legal meaning of confession", "gold": ["Section 24 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "Define anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 6 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "Define anticipatory bail", "gold": ["Section 438 CRPC"], "rag_pred": "Section 436 CRPC", "crag_pred": "Section 436 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "explain murder", "gold": ["Section 300 IPC"], "rag_pred": "Section 307 IPC", "crag_pred": "Section 307 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "india law secondary evidence", "gold": ["Section 63 IEA"], "rag_pred": "Section 63 IEA", "crag_pred": "Section 63 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
-{"query": "fir meaning in indian law", "gold": ["Section 154 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
+{"query": "fir meaning in indian law", "gold": ["Section 154 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 2 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is fir concept", "gold": ["Section 154 CRPC"], "rag_pred": "Section 2 CRPC", "crag_pred": "Section 154 CRPC", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
 {"query": "admission iea meaning", "gold": ["Section 17 IEA"], "rag_pred": "Section 17 IEA", "crag_pred": "Section 17 IEA", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "what is murder concept", "gold": ["Section 300 IPC"], "rag_pred": "Section 94 IPC", "crag_pred": "Section 94 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "what is forgery in law", "gold": ["Section 463 IPC"], "rag_pred": "Section 463 IPC", "crag_pred": "Section 463 IPC", "rag_correct": 1, "crag_correct": 1, "comparison": {"gain": 0}}
 {"query": "definition of secondary evidence", "gold": ["Section 63 IEA"], "rag_pred": "Section 3 IEA", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
-{"query": "evidence crpc meaning", "gold": ["Section 3 IEA"], "rag_pred": "Section 244 CRPC", "crag_pred": "Section 244 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
+{"query": "evidence crpc meaning", "gold": ["Section 3 IEA"], "rag_pred": "Section 244 CRPC", "crag_pred": "Section 3 IEA", "rag_correct": 0, "crag_correct": 1, "comparison": {"gain": 1}}
 {"query": "arrest definition india", "gold": ["Section 41 CRPC"], "rag_pred": "Section 48 CRPC", "crag_pred": "Section 48 CRPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "robbery law india", "gold": ["Section 390 IPC"], "rag_pred": "Section 392 IPC", "crag_pred": "Section 392 IPC", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}
 {"query": "definition of article 14", "gold": ["Article 14 COI"], "rag_pred": "Article 14", "crag_pred": "Article 14", "rag_correct": 0, "crag_correct": 0, "comparison": {"gain": 0}}

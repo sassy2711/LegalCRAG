@@ -9,7 +9,7 @@ from generator import generate_answer
 def crag_pipeline(query, max_hops=2, return_results=False, k=5):
     current_query = query
     best_results = None
-    best_score = -1.0
+    best_score = -1000
     best_query = query   # <-- added (safe init)
 
     seen_queries = set()
